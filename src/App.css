@@ -1,5 +1,9 @@
 .App {
   text-align: center;
+  min-height: 100vh;
+  background-image: url(../public/fondo.jpg);
+  background-size: 100%;
+  padding: 10px;
 }
 
 .App-logo {
